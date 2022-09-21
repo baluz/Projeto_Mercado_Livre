@@ -1,0 +1,13 @@
+
+<style android:name="input_text"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:name="android:textSize">
+        14sp
+    </item>
+
+    <item android:name="android:textColor">
+        #73000000
+    </item>
+
+</style>
