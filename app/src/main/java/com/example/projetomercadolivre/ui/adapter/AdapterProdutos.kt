@@ -19,7 +19,7 @@ class AdapterProdutos(private val products: List<Product>) : RecyclerView.Adapte
     }
 
     override fun onBindViewHolder(holder: ProductViewHolder, position: Int) {
-        holder.bind(products[position])
+            holder.bind(products[position])
     }
 
     override fun getItemCount(): Int {
